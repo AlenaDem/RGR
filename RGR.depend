@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1590064022 source:c:\users\emily\desktop\uni\labs\rgr\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<Windows.h>
+	"Order.h"
+	"InOrder.h"
+	"OutOrder.h"
+	"OrderManager.h"
+	"Date.h"
+
+1588982699 c:\users\emily\desktop\uni\labs\rgr\war.h
+	<string>
+	<iostream>
+	<fstream>
+
+1589050143 c:\users\emily\desktop\uni\labs\rgr\inwar.h
+	"War.h"
+
+1588980182 c:\users\emily\desktop\uni\labs\rgr\outwar.h
+	"War.h"
+
+1590062372 c:\users\emily\desktop\uni\labs\rgr\include\order.h
+	<string>
+	<iostream>
+	<fstream>
+	"Date.h"
+	"Contractor.h"
+
+1589990825 c:\users\emily\desktop\uni\labs\rgr\include\inorder.h
+	"Order.h"
+
+1589990982 c:\users\emily\desktop\uni\labs\rgr\include\outorder.h
+	"Order.h"
+
+1590016444 c:\users\emily\desktop\uni\labs\rgr\include\ordermanager.h
+	"InOrder.h"
+	"OutOrder.h"
+	"OrderFilter.h"
+	<vector>
+
+1590071018 source:c:\users\emily\desktop\uni\labs\rgr\src\inorder.cpp
+	"InOrder.h"
+
+1590017128 source:c:\users\emily\desktop\uni\labs\rgr\src\outorder.cpp
+	"OutOrder.h"
+
+1590062734 source:c:\users\emily\desktop\uni\labs\rgr\src\ordermanager.cpp
+	"OrderManager.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	<locale.h>
+	<sstream>
+	<string>
+	<iomanip>
+
+1590002085 source:c:\users\emily\desktop\uni\labs\rgr\src\order.cpp
+	"Order.h"
+
+1590008720 c:\users\emily\desktop\uni\labs\rgr\include\orderfilter.h
+	<string>
+	"Date.h"
+	"Contractor.h"
+
+1590061309 c:\users\emily\desktop\uni\labs\rgr\include\date.h
+	<string>
+	<vector>
+
+1590061309 source:c:\users\emily\desktop\uni\labs\rgr\src\date.cpp
+	"Date.h"
+	<sstream>
+	<iostream>
+
+1590014340 c:\users\emily\desktop\uni\labs\rgr\include\contractor.h
+	<string>
+	<iostream>
+
+1590014324 source:c:\users\emily\desktop\uni\labs\rgr\src\contractor.cpp
+	"Contractor.h"
+
